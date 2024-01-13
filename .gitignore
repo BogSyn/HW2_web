@@ -1,0 +1,10 @@
+# .gitignore
+
+# Python
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
+bot_poetry/__pycache__/
+bot_poetry/*.pyc
